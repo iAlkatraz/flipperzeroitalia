@@ -64,7 +64,7 @@ Per ovviare a ciò basta lavorare con dei file più piccoli (ad 8bit) che il Fli
 
 Nel file <b>sub_file.rar</b> troverete i file della versione originale dei file della repo https://github.com/tobiabocchi/flipperzero-bruteforce con all'interno già generate anche le cartelle a 64, 32, 16 e 8 bit.
 
-Si prosegue quindi seguendo il metodo sopra descritto dal 128 a scendere fino a ricavare il file a 8 bit che potrà essere quindi inviato tramite il menu decode e che arriverà al 100% senza stavolta causare crash decodificando le 8 key.
+Si prosegue quindi seguendo il metodo sopra descritto dal 128 a scendere fino a ricavare il file a 8 bit che potrà essere quindi inviato tramite il menu decode che arriverà al 100% senza stavolta causare crash riuscendo quindi a decodificare correttamente le 8 key.
     
 <img src="../images/displaydecodeok.jpg" alt="displaykeyok" width="200"/>
     
