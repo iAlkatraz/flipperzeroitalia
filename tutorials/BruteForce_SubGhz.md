@@ -48,6 +48,9 @@ L'ultimo gruppo di 128 viene eseguito dal Flipper in circa 10 secondi nei quali 
 <img src="../images/sub.jpg" alt="128" width="200"/>
 
 Ma il nostro scopo è quello di decodificare la chiave corretta e per farlo si passa dal menu MORE (joy a destra) invece del pulsante centrale SEND
+
+<img src="../images/more.jpg" alt="more" width="200"/>
+
 Si presenterà un nuovo menù contenente le voci:
 
 <img src="../images/menudecode.jpg" alt="menudecode" width="200"/>
