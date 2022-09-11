@@ -6,7 +6,7 @@
   
 ### Ti invito a leggere il **regolamento** e le **F.A.Q.** che seguono per poter avere una convivenza pacifica e civile all'interno del gruppo Telegram. Al primo messaggio che va contro il regolamento o che avrebbe potuto avere risposta leggendo le F.A.Q. &rarr; **KICK.**
   
-### **⚠️ ATTENZIONE ⚠️**: Il gruppo, la community, non ha alcun tipo di affiliazione con *Flipper Devices Inc.* *Tutto il materiale qui inserito ha il puro scopo di sperimentazione, divulgazione di informazioni e crescita di skill personali. Noi, e tutti quelli coinvolti o meno nella creazione, produzione e mantenimento di questo repository non potremo in alcun modo essere ritenuti responsabili per eventuali utilizzi non corretti. In ogni caso, chiunque intenda far uso di dette informazioni deve accertarsi, ulteriormente, dell'effettiva utilizzabilità e della loro concreta idoneità all'uso che se ne intende fare nel rispetto delle leggi vigenti.  
+### **⚠️ ATTENZIONE ⚠️**: Il gruppo, la community, non ha alcun tipo di affiliazione con *Flipper Devices Inc.* Tutto il materiale qui inserito ha il puro scopo di sperimentazione, divulgazione di informazioni e crescita di skill personali. Noi, e tutti quelli coinvolti o meno nella creazione, produzione e mantenimento di questo repository non potremo in alcun modo essere ritenuti responsabili per eventuali utilizzi non corretti. In ogni caso, chiunque intenda far uso di dette informazioni deve accertarsi, ulteriormente, dell'effettiva utilizzabilità e della loro concreta idoneità all'uso che se ne intende fare nel rispetto delle leggi vigenti.  
 
 ## **Generale**
 - <img src="images/Telegram_logo.png" alt="drawing" width="16"/> **[Gruppo Telegram](https://t.me/flipperzeroitalia)**
