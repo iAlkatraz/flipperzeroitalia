@@ -6,7 +6,7 @@
   
 ### Ti invito a leggere il **regolamento** e le **F.A.Q.** che seguono per poter avere una convivenza pacifica e civile all'interno del gruppo Telegram. Al primo messaggio che va contro il regolamento o che avrebbe potuto avere risposta leggendo le F.A.Q. &rarr; **KICK.**
   
-### **⚠️ ATTENZIONE ⚠️**: Il gruppo, la community, non ha alcun tipo di affiliazione con *Flipper Devices Inc.*  
+### **⚠️ ATTENZIONE ⚠️**: Il gruppo, la community, non ha alcun tipo di affiliazione con *Flipper Devices Inc.* *Tutto il materiale qui inserito ha il puro scopo di sperimentazione, divulgazione di informazioni e crescita di skill personali. Noi, e tutti quelli coinvolti o meno nella creazione, produzione e mantenimento di questo repository non potremo in alcun modo essere ritenuti responsabili per eventuali utilizzi non corretti. In ogni caso, chiunque intenda far uso di dette informazioni deve accertarsi, ulteriormente, dell'effettiva utilizzabilità e della loro concreta idoneità all'uso che se ne intende fare nel rispetto delle leggi vigenti.  
 
 ## **Generale**
 - <img src="images/Telegram_logo.png" alt="drawing" width="16"/> **[Gruppo Telegram](https://t.me/flipperzeroitalia)**
@@ -23,6 +23,8 @@
 
 - **Non cercare funzionalità illegali**
   - Il dispositivo deve essere visto come strumento di apprendimento e crescita di skill personali su informatica, elettronica, radio e quant'altro il prodotto abbia da offrire. Non venire a cercare sul gruppo informazioni su utilizzi non prettamente legali, verrai bannato all'istante.
+- **Non importunare gli altri utenti in privato**
+  - Vuoi scrivere o fare domande in privato a qualcuno? Chiedigli il permesso sul gruppo. Se non ricevi risposta, o ti viene negata la richiesta, allora fatti da parte. Qual'ora dovessimo riceve segnalazioni da parte di uno o più utenti che hanno ricevuto messaggi senza autorizzazione, il mittente sarà kickato all'istante.
 - **Il gruppo non è un mercatino**
   - Sei alla ricerca di un Flipper Zero? Ci dispiace ma questo non è un gruppo di compra vendita, per acquistarlo puoi fare riferimento al sito ufficiale e al rivenditore  ufficiale, oltre ai classici siti web per la compravendita online.
   - Puoi richiedere se qualcuno vende dispositivo e/o accessori, ma ogni tipo di messaggio successivo e inerente alla compravendita deve avvenire in privato tra acquirente e venditore, sul gruppo non deve apparire nulla. **Evita spam di richieste**.
