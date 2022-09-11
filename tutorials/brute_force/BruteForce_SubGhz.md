@@ -1,7 +1,9 @@
-# **Tutorial Brute Force SubGhz** con aggiunta decodifica key
-
-
+# **Tutorial Brute Force SubGhz** con aggiunta decodifica key <br><br><b>Tutte le guide qui inserite hanno il puro scopo di sperimentazione. <p>
+Noi, e tutti quelli coinvolti o meno nella creazione, produzione e mantenimento di questi tutorial non potremo essere in alcun modo essere ritenuti responsabili per eventuali utilizzi non corretti.
+In ogni caso, chiunque intenda far uso di dette informazioni deve accertarsi, ulteriormente, dell'effettiva utilizzabilità e della loro concreta idoneità all'uso che se ne intende fare nel rispetto delle leggi vigenti. </b>
+    
 Questo tutorial si basa su: https://github.com/tobiabocchi/flipperzero-bruteforce modificato per generare file fino ad 8bit
+
 
 Quando scaricate i file per fare brute force vi scaricherá un albero di cartelle cosí suddiviso:  
 ```
