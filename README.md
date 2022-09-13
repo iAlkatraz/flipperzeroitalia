@@ -19,7 +19,7 @@
 
 - **[🔗 Links](#-links-work-in-progress)**
 
-- **[🇮🇹 Made In Italy](#🇮🇹-made-in-italy)**
+- **[:it: Made In Italy](#it-made-in-italy)**
   
 ### **📜 Regolamento**
 
@@ -72,4 +72,4 @@ In questa sezione troverai vari link a **tutorial**, **firmware**, **documentazi
 
 - **Awesome Flipper** - [GitHub - djsime1/awesome-flipperzero: 🐬 A collection of awesome resources for the Flipper Zero device.](https://github.com/djsime1/awesome-flipperzero) Raccolta gestita dalla community internazionale contenente link utili, tutorial, informazioni e comparazioni sui firmware e tanto altro ancora.
 
-### ** 🇮🇹 Made In Italy**
+### ** :it: Made In Italy**
