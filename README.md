@@ -18,6 +18,8 @@
 - **[📖 Tutorial](#-tutorial)**
 
 - **[🔗 Links](#-links-work-in-progress)**
+
+- **[🇮🇹 Made In Italy](#🇮🇹-made-in-italy)**
   
 ### **📜 Regolamento**
 
@@ -62,10 +64,12 @@
 - **[Guida all'installazione Rogue / Unleashed](tutorials/rogue_unleashed_installazione/Rogue_Unleashed_Installazione.md)**
 - **[Flash Marauder da Computer Mac](tutorials/marauder_install/on_mac/readme.md)**
   
-### **🔗 Links** *(Work In Progress)*
+### **🔗 Links**
 
 In questa sezione troverai vari link a **tutorial**, **firmware**, **documentazione**e **altro**.
 
 - **Flipper Zero Docs** - [Flipper Zero Docs](https://docs.flipperzero.one) Documentazione ufficiale gestita da Flipper Devices Inc.
 
 - **Awesome Flipper** - [GitHub - djsime1/awesome-flipperzero: 🐬 A collection of awesome resources for the Flipper Zero device.](https://github.com/djsime1/awesome-flipperzero) Raccolta gestita dalla community internazionale contenente link utili, tutorial, informazioni e comparazioni sui firmware e tanto altro ancora.
+
+### ** 🇮🇹 Made In Italy**
