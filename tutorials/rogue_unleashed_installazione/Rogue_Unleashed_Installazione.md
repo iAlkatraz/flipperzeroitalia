@@ -96,7 +96,7 @@ Terminata questa operaizone, la tua SD è pronta per essere inserita nel Compute
 ### **4.2 Copia il Custom Firmware**
 Inserisci la tua Micro SD nel computer, e aprila. Al suo interno troverai queste cartelle.
 
-<div align=center><img src="images/interno_micro_sd.png"/></div>
+<div align=center><img src="images/interno_micro_SD.PNG"/></div>
 
 Come puoi vedere, è presente una cartella nominata **update**: quello che dovrai fare è copiare la cartella del Custom Firmware estratta al passo **[3](#3-scarica-il-custom-firmware)** all'interno della cartella **update**. Terminata l'operazione di copia, **ESPELLETE IN MODO SICURO LA MEMORY CARD** e inseritela nel Flipper.
 
