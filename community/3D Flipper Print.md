@@ -1,4 +1,4 @@
-![[Banner.png]]
+<div align=center><img src="Images/Banner.PNG"/></div>
 
 
 # ![[3d-printer.png]] Se non hai una stampante 3D, e vorresti uno dei tanti accessori per il tuo **FlipperZero** , non preoccuparti, sono a tua disposizione.
