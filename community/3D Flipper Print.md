@@ -1,7 +1,6 @@
 
-![3d-printer](Images/3d-printer.png)
+![3d-printer](/Images/3d-printer.png)
 
-<div align=center><img src="/Images/3d-printer.png" alt="displaykeyok" width="200"/></div>
 # ![[3d-printer]] Se non hai una stampante 3D, e vorresti uno dei tanti accessori per il tuo **FlipperZero**, non preoccuparti, sono a tua disposizione.
 
 #### ![[box (1).png]]  Realizzo stampe 3D su richiesta, con spedizione veloce e tracciata  SDA.
