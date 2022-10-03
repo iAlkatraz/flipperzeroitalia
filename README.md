@@ -74,4 +74,4 @@ In questa sezione troverai vari link a **tutorial**, **firmware**, **documentazi
 
 ### ** :it: Made In Italy**
 
-- **[Stampa personalizzata in 3D](community\3D_Flipper_Print.md)**
+- **[Stampa personalizzata in 3D](community/3D_Flipper_Print.md)**
