@@ -1,14 +1,12 @@
-<div align=center><img src="Images/Banner.PNG"/></div>
 
+![3d-printer](Images/3d-printer.png)
 
-# ![[3d-printer.png]] Se non hai una stampante 3D, e vorresti uno dei tanti accessori per il tuo **FlipperZero** , non preoccuparti, sono a tua disposizione.
-
-<br> 
-<br> 
+<div align=center><img src="/Images/3d-printer.png" alt="displaykeyok" width="200"/></div>
+# ![[3d-printer]] Se non hai una stampante 3D, e vorresti uno dei tanti accessori per il tuo **FlipperZero**, non preoccuparti, sono a tua disposizione.
 
 #### ![[box (1).png]]  Realizzo stampe 3D su richiesta, con spedizione veloce e tracciata  SDA.
 
-  
+
 ## ![[euro (1).png]] Costi
 ##### Il costo di spedizione e' di €8 per tutta italia.
 ##### Per ordini superiori a €40 ,la spedizione è gratuita.
