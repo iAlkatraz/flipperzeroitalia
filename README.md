@@ -73,3 +73,5 @@ In questa sezione troverai vari link a **tutorial**, **firmware**, **documentazi
 - **Awesome Flipper** - [GitHub - djsime1/awesome-flipperzero: 🐬 A collection of awesome resources for the Flipper Zero device.](https://github.com/djsime1/awesome-flipperzero) Raccolta gestita dalla community internazionale contenente link utili, tutorial, informazioni e comparazioni sui firmware e tanto altro ancora.
 
 ### ** :it: Made In Italy**
+
+- **[Stampa personalizzata in 3D](community\3D_Flipper_Print.md)**
