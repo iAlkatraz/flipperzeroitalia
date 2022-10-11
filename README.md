@@ -29,8 +29,7 @@
   - Vuoi scrivere o fare domande in privato a qualcuno? Chiedigli il permesso sul gruppo. Se non ricevi risposta, o ti viene negata la richiesta, allora fatti da parte. Qual'ora dovessimo riceve segnalazioni da parte di uno o più utenti che hanno ricevuto messaggi senza autorizzazione, il mittente sarà kickato all'istante.
 - **Il gruppo non è un mercatino**
   - Sei alla ricerca di un Flipper Zero? Ci dispiace ma questo non è un gruppo di compra vendita, per acquistarlo puoi fare riferimento al sito ufficiale e al rivenditore  ufficiale, oltre ai classici siti web per la compravendita online.
-  - Puoi richiedere se qualcuno vende dispositivo e/o accessori, ma ogni tipo di messaggio successivo e inerente alla compravendita deve avvenire in privato tra acquirente e venditore, sul gruppo non deve apparire nulla. **Evita spam di richieste**.
-  - Nel caso tu sia il venditore, puoi scrivere che sei disponibile a vendere il tuo dispositivo e/o accessori, ma come prima vale la regola del non spam e ogni messaggio successivo all'annuncio deve essere strettamente privato.
+  - **Per evitare di attirare i truffatori SONO VIETATI NELLA MANIERA PIù ASSOLUTA TUTTI I MESSAGGI RELATIVI A COMPRAVENDITA DI FLIPPER!**.
 - **Non scrivere agli Admin in privato**
   - Hai una domanda inerente al Flipper? Chiedi sul gruppo. Non importunare gli admin in chat privata per domande la cui risposta potrebbe anche aiutare altri membri del gruppo. Se invece hai proposte di collaborazioni, link utili o altro, allora puoi contattare gli admin.
   
