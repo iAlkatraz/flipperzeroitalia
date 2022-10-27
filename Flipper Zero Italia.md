@@ -19,8 +19,6 @@
 
 - **[🔗 Links](#-links-work-in-progress)**
 
-- **[:it: Made In Italy](#it-made-in-italy)**
-
 - **[📁 Files](#📁-files)**
   
 ### **📜 Regolamento**
@@ -67,7 +65,7 @@
 
 In questa sezione troverai vari link a **tutorial**, **firmware**, **documentazione**e **altro**.
 
-- **[iSmart - Case personalizzati](made_in_italy/iSmart_shop/3D_Flipper_Print.md)**
+- **[iSmart - Case personalizzati](links/iSmart_shop/3D_Flipper_Print.md)**
 - **[Flipper Zero Docs](https://docs.flipperzero.one)**
 - **[Awesome Flipper](https://github.com/djsime1/awesome-flipperzero)**
 - **[Two Esp32 Communication](https://microcontrollerslab.com/esp32-uart-communication-pins-example/)**
