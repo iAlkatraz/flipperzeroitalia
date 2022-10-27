@@ -77,9 +77,13 @@ In questa sezione troverai vari link a **tutorial**, **firmware**, **documentazi
   - [Scheme](images/made_in_italy/WiFi%20Deauther%20Module.jpg)
   - [Tutorial](https://www.youtube.com/watch?v=FgA39dpPaaM&t=1s)
 - **[Morse Code FAP](https://github.com/wh00hw/MorseCodeFAP)**
+- **Marauder**
+  - **[GitHub](https://github.com/justcallmekoko/ESP32Marauder/wiki/flipper-zero)**
+  - **[Tutorial Installazione](https://www.youtube.com/watch?v=um_acrDaBK4)**
 
 ### **📁 Files**
 **Qui potrai trovare tutta una serie di file condivisi da vari utenti!**
-- [IR - Soundbar Bose](files/Ir/Bose_barra.ir)
-- [SubGhz - Telecomando Fila](files/subghz/CounterFila_.sub)
-- [Inno di Mameli](files/music_player/Inno_di_Mameli_(by_VoT).fmf)
+- **[IR - Soundbar Bose](files/Ir/Bose_barra.ir)**
+- **[SubGhz - Telecomando Fila](files/subghz/CounterFila_.sub)**
+- **[Inno di Mameli](files/music_player/Inno_di_Mameli_(by_VoT).fmf)**
+- **[EPS Universal Flasher](https://t.me/flipperzeroitalia/34324)**
