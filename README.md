@@ -61,8 +61,9 @@
 - **[Guida all'installazione Rogue / Unleashed](tutorials/rogue_unleashed_installazione/Rogue_Unleashed_Installazione.md)**
 - **[Flash Marauder da Computer Mac](tutorials/marauder_install/on_mac/readme.md)**
 - **[Tamagotchi](tutorials/tamagotchi/tamagotchi.md)**
-- **[Schema NRF + Eps32](images/made_in_italy/Schema%20NRF%2BEps32.jpg)**
+- **[Schema NRF + Eps32](tutorials/Schema%20NRF%2BEps32.jpg)**
 - **[FAP - Flipper Applications](https://www.youtube.com/watch?v=LHBUw7xhHT8)**
+- **[qFlipper su Linux](tutorials/qFlipper_Linux/qFlipper_Linux)**
   
 ### **🔗 Links**
 
@@ -75,12 +76,15 @@ In questa sezione troverai vari link a **tutorial**, **firmware**, **documentazi
 - **[.sub Plotter Comparers](https://github.com/ShotokanZH/flipper_sub_plotters_comparers)**
 - **[Flipper Zero IFTTT Virtual Button](https://github.com/Ferrazzi/FlipperZero_IFTTT_Virtual_Button)**
 - **WiFi Deauther Module**
-  - [Scheme](images/made_in_italy/WiFi%20Deauther%20Module.jpg)
+  - [Scheme](links/WiFi%20Deauther%20Module.jpg)
   - [Tutorial](https://www.youtube.com/watch?v=FgA39dpPaaM&t=1s)
 - **[Morse Code FAP](https://github.com/wh00hw/MorseCodeFAP)**
 - **Marauder**
-  - **[GitHub](https://github.com/justcallmekoko/ESP32Marauder/wiki/flipper-zero)**
-  - **[Tutorial Installazione](https://www.youtube.com/watch?v=um_acrDaBK4)**
+  - [GitHub](https://github.com/justcallmekoko/ESP32Marauder/wiki/flipper-zero)
+  - [Tutorial Installazione](https://www.youtube.com/watch?v=um_acrDaBK4)
+- **FAP Coges**
+  - [GitHub](https://github.com/wh00hw/CoffeeEditor)
+  - [Scheme](links/Scheme%20FAP%20Coges.jpg)
 
 ### **📁 Files**
 **Qui potrai trovare tutta una serie di file condivisi da vari utenti!**
