@@ -27,6 +27,7 @@
 
 - **Solo chi ha il flipper può scrivere**
   - Chi entra nel gruppo non ha la possibilità di scrivere messaggi. Possiedi un Flipper? Scrivi ad uno degli admin citati nel messaggio di benvenuto, e loro provvederanno a sbloccarti. Se l'hai ordinato verrai comunque sbloccato solo una volta che ne sarai veramente in possesso, quindi non importunare gli admin in chat. Se quindi non possedete il dispositivo, o l'avete ordinato, non scrivete agli admin: non verrete comunque sbloccati e non otterrete risposta.
+  - In caso possedessi un Flipper e vuoi essere sbloccato, scrivi ad un admin e aspetta la risposta, non scrivere a tutti quanti. Noi admin ci parliamo: se risulta che hai scritto a più di uno per la fretta, non verrai accettato.
 - **Non cercare funzionalità illegali**
   - Il dispositivo deve essere visto come strumento di apprendimento e crescita di skill personali su informatica, elettronica, radio e quant'altro il prodotto abbia da offrire. Non venire a cercare sul gruppo informazioni su utilizzi non prettamente legali, verrai bannato all'istante.
 - **Non importunare gli altri utenti in privato**
