@@ -3,7 +3,9 @@
 ![sfondo_flipper_zero_italia](images/sfondo_flipper_zero_italia.jpg)
 
 ## **Benvenuto nella community Italiana di Flipper Zero🐬!**
-  
+
+## **Se vuoi contribuire al repo, clicca [qui](info_repo.md) per maggiori info**
+
 ### Ti invito a leggere il **regolamento** e le **F.A.Q.** che seguono per poter avere una convivenza pacifica e civile all'interno del gruppo Telegram.
   
 ### **⚠️ ATTENZIONE ⚠️**: Il gruppo, la community, non ha alcun tipo di affiliazione con *Flipper Devices Inc.* Tutto il materiale qui inserito ha il puro scopo di sperimentazione, divulgazione di informazioni e crescita di skill personali. Noi, e tutti quelli coinvolti o meno nella creazione, produzione e mantenimento di questo repository non potremo in alcun modo essere ritenuti responsabili per eventuali utilizzi non corretti. In ogni caso, chiunque intenda far uso di dette informazioni deve accertarsi, ulteriormente, dell'effettiva utilizzabilità e della loro concreta idoneità all'uso che se ne intende fare nel rispetto delle leggi vigenti.  
