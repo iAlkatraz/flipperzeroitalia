@@ -83,7 +83,7 @@ In questa sezione troverai vari link a **tutorial**, **firmware**, **documentazi
   - [GitHub](https://github.com/justcallmekoko/ESP32Marauder/wiki/flipper-zero)
   - [Tutorial Installazione](https://www.youtube.com/watch?v=um_acrDaBK4)
 - **FAP Coges**
-  - [GitHub](https://github.com/wh00hw/CoffeeEditor)
+  - [GitHub](https://github.com/wh00hw/Coffee-EEPROM-FAP)
   - [Scheme](links/Scheme%20FAP%20Coges.jpg)
 
 ### **📁 Files**
