@@ -76,6 +76,7 @@ In questa sezione troverai vari link a **tutorial**, **firmware**, **documentazi
 - **WiFi Deauther Module**
   - [Scheme](images/made_in_italy/WiFi%20Deauther%20Module.jpg)
   - [Tutorial](https://www.youtube.com/watch?v=FgA39dpPaaM&t=1s)
+- **[Morse Code FAP](https://github.com/wh00hw/MorseCodeFAP)**
 
 ### **📁 Files**
 **Qui potrai trovare tutta una serie di file condivisi da vari utenti!**
