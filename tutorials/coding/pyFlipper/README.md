@@ -1,8 +1,8 @@
-# **Guida programmazione Flipper in python con pyFlipper**
+# **Guida programmazione Flipper in Python con pyFlipper**
 
 ## **1. Cos'è pyFlipper?**
 
-PyFlipper è una libreria python che permette di eseguire le funzioni del Flipper attraverso uno script Python. In gergo tecnico questo approccio viene definito wrapper, in quanto tale libreria si occupa di estendere le funzioni che vengono rese disponibili dalla CLI utilizzando il linguaggio di programmazione Python.
+PyFlipper è una libreria Python che permette di eseguire le funzioni del Flipper attraverso uno script. In gergo tecnico questo approccio viene definito wrapper, in quanto tale libreria si occupa di estendere le funzioni che vengono rese disponibili dalla CLI utilizzando il linguaggio di programmazione Python.
 
 ## **2. Cos'è la CLI?**
 
@@ -11,7 +11,7 @@ Per capire meglio cosa sia:
 
 1. Collegare il Flipper al PC via USB
 2.  Ottenere il percorso dell'interfaccia seriale del Flipper
-	- Il metodo più semplice è quello di aprire qFlipper e leggere affianco al nome il nome dell'interfaccia. Esempio
+	- Il metodo più semplice è quello di aprire qFlipper e leggere affianco al nome del Flipper il nome dell'interfaccia seriale. Esempio
 		- Windows: COM4
 		- Linux: /dev/ttyACM0
 
@@ -19,14 +19,15 @@ Per capire meglio cosa sia:
 
 3. Utilizzare un programma con la funzione di console seriale perl'interfaccia ottenuta in precedenza, assicurandosi che il parametro baudrate sia 9600. Esempio:
 	- Windows: Putty, Arduino IDE
-	- LInux: screen /dev/ttyACM0 (sostituire con la propria interfaccia)
+	- Linux: screen /dev/ttyACM0 (sostituire con la propria interfaccia)
 4. Una volta aperta la console sarà visibile il deflino disegnato in ASCII Art come welcome banner.
 5. Digitare help e premere INVIO per consultare la lista di comandi.
 
+<div align=center><img src="images/cli.jpeg" alt="drawing" width="250"/></div>
 
 ## **2. Perchè pyFlipper?**
 
-Come abbiamo visto nello step precedente, accedere alle funzioni del Flipper tramite console seriale interattiva pone un limite all'automatizzazione e alla concatenazione delle stesse (scripting). Sarebbe impossibile ad esempio ottenere la lista del file .sub dalla SD card e lanciarli in sequenza in un unico passaggio senza interagire manualmente con la CLI ad ogni passaggio. Attraverso la libreria PyFlipper, connessione all'interfacciare seriale, esecuzioni e risultati delle operazioni possono essere manipolate automaticamente in Python.
+Come abbiamo visto nello step precedente, accedere alle funzioni del Flipper tramite console seriale interattiva pone un limite all'automatizzazione e alla concatenazione delle stesse (scripting). Sarebbe impossibile ad esempio ottenere la lista del file .sub dalla SD card e lanciarli in sequenza senza interagire manualmente con la CLI ad ogni passaggio. Attraverso la libreria PyFlipper, connessione all'interfacciare seriale, esecuzioni e risultati delle operazioni possono essere manipolate automaticamente in Python.
 
 
 ## **3. Installazione pyFlipper**
@@ -37,7 +38,7 @@ Come abbiamo visto nello step precedente, accedere alle funzioni del Flipper tra
 
 ### Installazione
 
-1. Aprire il terminale, clonare la repository [pyFlipper](https://github.com/wh00hw/pyFlipper) ed entrare nella cartella pyFlipper:
+1. Aprire il terminale, clonare la repository [pyFlipper](https://github.com/wh00hw/pyFlipper) ed entrare nella cartella clonata:
 	- Se non si ha installato Git, scaricare la repositori come archivio zip, ed estrarre il contenuto
 ```
 git clone https://github.com/wh00hw/pyFlipper.git
@@ -65,7 +66,7 @@ pip install -r requirements.txt
 
 ## **4. Usare pyFlipper (PC)**
 
-PyFlipper viene importato come una comune libreria python, nel seguente esempio viene mostrato come importare, instanziare ed eseguire una semplice funzione.
+PyFlipper viene importato come una comune libreria Python, nel seguente esempio viene mostrato come importare, instanziare ed eseguire una semplice funzione.
 
 1. Arire un editor di testo e creare un file 'esempio.py' nella cartella pyFlipper
 2. Importare la libreria
@@ -99,6 +100,8 @@ Il Flipper Zero è un dispositivo tascabile, risulta quindi macchinoso doverlo c
 ### Prerequisiti
 - Cavo USB OTG 
 
+### Installazione
+
 1. Scaricare dal Play Store [OTGSerial2WebSocket](https://play.google.com/store/apps/details?id=com.wh00hw.serial2websocket)
 	- Attraverso questa app è possibile esporre l'interfaccia seriale dello smartphone attraverso un server websocket interno al dispositivo. Questo perchè Android non permette l'accesso diretto attraverso l'USB OTG a meno di avere i permessi di root sullo smartphone
 2. Collegare il Flipper allo smartphone via USB OTG
@@ -115,7 +118,7 @@ Il Flipper Zero è un dispositivo tascabile, risulta quindi macchinoso doverlo c
 pkg update && pkg upgrade
 pkg install python git
 ```
-7. Una volta installato Python possiamo possiamo ripetere gli step del capitolo 4 con una sola differenza, quando vienere instanziato l'oggetto flipper assicurarsi di usare l'interfaccia seriale esposta sul server websocket lanciato al punto 4
+7. Una volta installato Python possiamo possiamo ripetere gli step di installazione e creazione dell'esempio dal capitolo 3 con una sola differenza, quando vienere instanziato l'oggetto flipper assicurarsi di usare l'interfaccia seriale esposta sul server websocket lanciato al punto 4
 ```
 flipper = PyFlipper(ws="ws://127.0.0.1:8000")
 ```
