@@ -23,7 +23,7 @@ Per capire meglio cosa sia:
 4. Una volta aperta la console sarà visibile il deflino disegnato in ASCII Art come welcome banner.
 5. Digitare help e premere INVIO per consultare la lista di comandi.
 
-<div align=center><img src="images/cli.jpeg" alt="drawing" width="250"/></div>
+<div align=center><img src="images/cli.jpg" alt="drawing" width="250"/></div>
 
 ## **2. Perchè pyFlipper?**
 
