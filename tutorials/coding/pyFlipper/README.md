@@ -71,7 +71,7 @@ PyFlipper viene importato come una comune libreria Python, nel seguente esempio 
 1. Arire un editor di testo e creare un file 'esempio.py' nella cartella pyFlipper
 2. Importare la libreria
 ```
-from pyFlipper import PyFlipper
+from pyflipper import PyFlipper
 ```
 3. Instanziare la classe PyFlipper creando l'oggetto di nome 'flipper' che si interfaccia alla seriale e contiene i metodi delle funzioni invocabili
 	- Assicurarsi di sostiuire COM4 con la propria interfaccia seriale ottenuta nel capitolo 2
@@ -118,7 +118,7 @@ Il Flipper Zero è un dispositivo tascabile, risulta quindi macchinoso doverlo c
 pkg update && pkg upgrade
 pkg install python git
 ```
-7. Una volta installato Python possiamo possiamo ripetere gli step di installazione e creazione dell'esempio dal capitolo 3 con una sola differenza, quando vienere instanziato l'oggetto flipper assicurarsi di usare l'interfaccia seriale esposta sul server websocket lanciato al punto 4
+7. Una volta installato Python possiamo ripetere gli step di installazione e creazione dell'esempio dal capitolo 3 con una sola differenza, quando vienere instanziato l'oggetto flipper assicurarsi di usare l'interfaccia seriale esposta sul server websocket lanciato al punto 4
 ```
 flipper = PyFlipper(ws="ws://127.0.0.1:8000")
 ```
