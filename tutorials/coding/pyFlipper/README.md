@@ -1,15 +1,15 @@
-# **Guida programmazione Flipper in python con pyFlipper
+# **Guida programmazione Flipper in python con pyFlipper**
 
 ## **1. Cos'è pyFlipper?**
 
-PyFlipper è una libreria python che permette di eseguire le funzioni del Flipper attraverso uno script python. In gergo tecnico questo approccio viene definito wrapper, in quanto tale libreria si occupa di estendere le funzioni che vengono rese disponibili dalla CLI utilizzando il linguaggio di programmazione Python.
+PyFlipper è una libreria python che permette di eseguire le funzioni del Flipper attraverso uno script Python. In gergo tecnico questo approccio viene definito wrapper, in quanto tale libreria si occupa di estendere le funzioni che vengono rese disponibili dalla CLI utilizzando il linguaggio di programmazione Python.
 
 ## **2. Cos'è la CLI?**
 
-Command Line Interface, si tratta di una console seriale raggiungibile collegando il Flipper via USB al computer. Questa interfaccia è resa disponibile dal firmware stesso, e permette di usare le funzioni principali del flipper via PC. 
+Command Line Interface, si tratta di una console seriale raggiungibile collegando il Flipper via USB al computer. Questa interfaccia è resa disponibile dal firmware stesso, e permette di usare le funzioni principali del Flipper via PC. 
 Per capire meglio cosa sia:
 
-1. Collegare il flipper al PC via USB
+1. Collegare il Flipper al PC via USB
 2.  Ottenere il percorso dell'interfaccia seriale del Flipper
 	- Il metodo più semplice è quello di aprire qFlipper e leggere affianco al nome il nome dell'interfaccia. Esempio
 		- Windows: COM4
@@ -45,16 +45,17 @@ cd PyFlipper
 ```
 
 2. Creare ed attivare il virtual environment (opzionale)
-Linux
-```
-python3 -m venv venv
-source venv/bin/activate
-```
 
 Windows
 ```
 python3 -m venv venv
 .\venv\Scripts\Activate.ps1
+```
+
+Linux
+```
+python3 -m venv venv
+source venv/bin/activate
 ```
 
 3. Installare i pacchetti richiesti dalla libreria
@@ -108,6 +109,7 @@ Il Flipper Zero è un dispositivo tascabile, risulta quindi macchinoso doverlo c
 	- La versione sul Play Store è deprecata e non mantenuta
 <div align=center><img src="images/websocket1.png" alt="drawing" width="250"/></div>
 <div align=center><img src="images/websocket2.png" alt="drawing" width="250"/></div>
+
 6. Aprire Termux, aggiornare i pacchetti ed installare python3 e git
 ```
 pkg update && pkg upgrade
@@ -117,3 +119,5 @@ pkg install python git
 ```
 flipper = PyFlipper(ws="ws://127.0.0.1:8000")
 ```
+
+## **FINE**
