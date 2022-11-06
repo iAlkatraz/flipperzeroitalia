@@ -63,7 +63,9 @@
 - **[Tamagotchi](tutorials/tamagotchi/tamagotchi.md)**
 - **[Schema NRF + Eps32](tutorials/Schema%20NRF%2BEps32.jpg)**
 - **[FAP - Flipper Applications](https://www.youtube.com/watch?v=LHBUw7xhHT8)**
+- **[Programmazione Flipper con Python](tutorials/coding/pyFlipper/README.md)**
 - **[qFlipper su Linux](tutorials/qFlipper_Linux/qFlipper_Linux)**
+
   
 ### **🔗 Links**
 
