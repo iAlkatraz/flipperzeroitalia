@@ -72,6 +72,7 @@
 In questa sezione troverai vari link a **tutorial**, **firmware**, **documentazione**e **altro**.
 
 - **[iSmart - Case personalizzati](links/iSmart_shop/3D_Flipper_Print.md)**
+- **[EnDiMaDesigner - Bumper flessibili in TPU](https://www.ebay.it/usr/endima_designer)**
 - **[Flipper Zero Docs](https://docs.flipperzero.one)**
 - **[Awesome Flipper](https://github.com/djsime1/awesome-flipperzero)**
 - **[Two Esp32 Communication](https://microcontrollerslab.com/esp32-uart-communication-pins-example/)**
