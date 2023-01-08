@@ -104,7 +104,7 @@ Un protocollo è definito da alcuni parametri passati al costruttore nel seguent
 - ripetizione: numero di trasmissioni per chiave nel brute force
 
 # Download file necessari
-- [flipperzero-bruteforce.py](flipperzero-bruteforce.py)
-- [sub_files.rar](sub_files.rar)
+- [flipperzero-bruteforce.py](https://t.me/flipperzeroitalia/51850/65252)
+- [sub_files.rar](https://t.me/flipperzeroitalia/51850/65106)
 
 
