@@ -20,8 +20,6 @@
 - **[📖 Tutorial](#-tutorial)**
 
 - **[🔗 Links](#-links-work-in-progress)**
-
-- **[📁 Files](#📁-files)**
   
 ### **📜 Regolamento**
 
@@ -87,10 +85,3 @@ In questa sezione troverai vari link a **tutorial**, **firmware**, **documentazi
 - **FAP Coges**
   - [GitHub](https://github.com/wh00hw/Coffee-EEPROM-FAP)
   - [Scheme](links/Scheme%20FAP%20Coges.jpg)
-
-### **📁 Files**
-**Qui potrai trovare tutta una serie di file condivisi da vari utenti!**
-- **[IR - Soundbar Bose](files/Ir/Bose_barra.ir)**
-- **[SubGhz - Telecomando Fila](files/subghz/CounterFila_.sub)**
-- **[Inno di Mameli](files/music_player/Inno_di_Mameli_(by_VoT).fmf)**
-- **[EPS Universal Flasher](https://t.me/flipperzeroitalia/34324)**
