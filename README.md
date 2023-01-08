@@ -25,6 +25,7 @@
   
 ### **📜 Regolamento**
 
+- **AL TERZO WARN SCATTA IL BAN**
 - **Solo chi ha il flipper può scrivere**
   - Chi entra nel gruppo non ha la possibilità di scrivere messaggi. Possiedi un Flipper? Scrivi ad uno degli admin citati nel messaggio di benvenuto, e loro provvederanno a sbloccarti. Se l'hai ordinato verrai comunque sbloccato solo una volta che ne sarai veramente in possesso, quindi non importunare gli admin in chat. Se quindi non possedete il dispositivo, o l'avete ordinato, non scrivete agli admin: non verrete comunque sbloccati e non otterrete risposta.
   - In caso possedessi un Flipper e vuoi essere sbloccato, scrivi ad un solo admin e aspetta la risposta, non scrivere a tutti quanti. Noi admin ci parliamo: se risulta che hai scritto a più di uno per la fretta, non verrai accettato.
