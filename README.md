@@ -8,7 +8,7 @@
 
 ### Ti invito a leggere il **regolamento** e le **F.A.Q.** che seguono per poter avere una convivenza pacifica e civile all'interno del gruppo Telegram.
   
-### **⚠️ ATTENZIONE ⚠️**: Il gruppo, la community, non ha alcun tipo di affiliazione con *Flipper Devices Inc.* Tutto il materiale qui inserito ha il puro scopo di sperimentazione, divulgazione di informazioni e crescita di skill personali. Noi, e tutti quelli coinvolti o meno nella creazione, produzione e mantenimento di questo repository non potremo in alcun modo essere ritenuti responsabili per eventuali utilizzi non corretti. In ogni caso, chiunque intenda far uso di dette informazioni deve accertarsi, ulteriormente, dell'effettiva utilizzabilità e della loro concreta idoneità all'uso che se ne intende fare nel rispetto delle leggi vigenti.  
+### **⚠️ ATTENZIONE ⚠️**: Il gruppo, la community, non ha alcun tipo di affiliazione con *Flipper Devices Inc.* Tutto il materiale qui inserito ha il puro scopo di sperimentazione, divulgazione di informazioni e crescita di skill personali. Noi, e tutti quelli coinvolti o meno nella creazione, produzione e mantenimento di questo repository e nella gestione del gruppo Telegram non potremo in alcun modo essere ritenuti responsabili per eventuali utilizzi non corretti. In ogni caso, chiunque intenda far uso di dette informazioni e file deve accertarsi, ulteriormente, dell'effettiva utilizzabilità e della loro concreta idoneità all'uso che se ne intende fare nel rispetto delle leggi vigenti.  
 
 ## **Generale**
 - <img src="images/Telegram_logo.png" alt="drawing" width="16"/> **[Gruppo Telegram](https://t.me/flipperzeroitalia)**
@@ -20,6 +20,8 @@
 - **[📖 Tutorial](#-tutorial)**
 
 - **[🔗 Links](#-links-work-in-progress)**
+
+- **[📁 Files](https://t.me/flipperzeroitalia/51850)**
   
 ### **📜 Regolamento**
 
@@ -35,6 +37,8 @@
   - Per evitare di attirare i truffatori **SONO VIETATI NELLA MANIERA PIÙ ASSOLUTA TUTTI I MESSAGGI RELATIVI A COMPRAVENDITA DI FLIPPER!**.
 - **Non scrivere agli Admin in privato**
   - Hai una domanda inerente al Flipper? Chiedi sul gruppo. Non importunare gli admin in chat privata per domande la cui risposta potrebbe anche aiutare altri membri del gruppo. Se invece hai proposte di collaborazioni, link utili o altro, allora puoi contattare gli admin.
+- **Condivisione file**
+  - Se volete condividere un file assicuratevi prima di tutto che non sia già presente nel topic **"Files"** del gruppo. In tal caso, non inviate il file, ma bensì inviate il riferimento al messaggio di quello già presente. Inoltre tutti i file (escluse immagini e video) dovranno essere caricati nel topic **"Files"** apposito, indicando con il carattere ""#"" la tipologia del file, per una più facile reperibilità successiva, una breve descrizione su cosa è/a cosa serve e la citazione della fonte, che può essere lo username dell'utente che l'ha creato o il vostro se il file è da voi originato. **INVIARE MESSAGGI DENTRO AL TOPIC "FILES"C CAUSERA' L'ESPULSIONE IMMEDIATA DAL GRUPPO**
   
 ### **🤔 F.A.Q.**
   
