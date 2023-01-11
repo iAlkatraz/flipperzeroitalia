@@ -4,6 +4,7 @@ In ogni caso, chiunque intenda far uso di dette informazioni deve accertarsi, ul
     
 Questo tutorial si basa su: https://github.com/tobiabocchi/flipperzero-bruteforce modificato per generare file fino ad 8bit
 
+**INOLTRE all'interno dei firmware custom è solitamente presente un'applicazione nella cartella "tools" chiamata "SubGhz Bruteforce" che permette di scegliere la tipologia di segnale e testare con un'interfaccia semplice e intuitiva i vari segnali inviati.**
 
 Quando scaricate i file per fare brute force vi scaricherá un albero di cartelle cosí suddiviso:  
 ```
